@@ -37,6 +37,3 @@ This project can be useful for:
 ## Output
 The application takes a sentence as input and predicts the corresponding emotion label.
 
----
-
-⭐ If you like this project, feel free to star the repository!
